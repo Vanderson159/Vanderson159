@@ -1,5 +1,5 @@
 ## Olá eu sou a Vanderson Duarte Maciel!
-Tenho 21 anos de idade, sou grauado em Análise e Desenvolvimento de Sistemas - IFFar.
+Tenho 21 anos de idade, sou graduado em Análise e Desenvolvimento de Sistemas - IFFar.
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanderson159&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanderson159&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
